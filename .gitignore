@@ -1,0 +1,23 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Dependency directories
+node_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+*.env
+
+# playwright-specific paths
+test-results/
+
+# Jetbrains IDEs
+.idea/
